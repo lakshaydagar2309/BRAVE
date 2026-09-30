@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Runtime state written by dashboard_gateway.py against real hardware
+dashboard_state.json
+brave_live.csv
+
+# Virtual environments
+.venv/
+venv/
+
+# OS junk
+Thumbs.db
+.DS_Store
